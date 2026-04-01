@@ -1,5 +1,0 @@
-venv/ 
-__pycache__/ 
-*.pyc 
-oil_spill_unet.h5 
-oil_spill_unet.h5 
